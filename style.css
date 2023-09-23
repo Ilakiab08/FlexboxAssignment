@@ -223,9 +223,10 @@
           font-size:2em;
           padding:2px; 
           color:black;
+          
           background-color:white;
           border-radius:5px;
-          transition:transform 0.3s,background-color 0.3s,color 0.3s;
+          transition:transform ease,background-colorease,color 40s;
          
           
        
